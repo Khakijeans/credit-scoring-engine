@@ -1,0 +1,17 @@
+# Data Files - never push the raw data
+data/
+
+# Saved models
+/models
+
+# Virtual Environments
+/venv
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# OS Files
+.DS_Store
+Thumbs.db
