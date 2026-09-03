@@ -1,4 +1,4 @@
-Final Feature List — 102 features
+Final Feature List ï¿½ 102 features
 Generated: Step 3.5 Feature Selection
 
 NAME_CONTRACT_TYPE
